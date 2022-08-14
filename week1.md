@@ -1,11 +1,18 @@
 ---
 layout: default
 title: Week 1
-description: This is content for week 1
 ---
 
-## Welcome to Week 1
 
-BlaBlaBla
+
+Presentation: <iframe 
+                src="https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W1.pptx"
+                width="500px"
+                height="350px"
+                frameborder="0"
+              ></iframe>
+
+[Code](https://dombbb.github.io/cs-hs22)
+
 
 [back](./)
