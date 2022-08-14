@@ -1,4 +1,8 @@
-# Fundamentals and Methods of Computer Science for Business Studies: Exercises, Group 3
+---
+layout: default
+title: Fundamentals and Methods of Computer Science for Business Studies: Exercises, Group 3
+---
+
 
 Open JupyterLite: **https://dombbb.github.io/cs-hs22** 
 
