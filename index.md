@@ -8,7 +8,7 @@ Open JupyterLite: **https://dombbb.github.io/cs-hs22**
 
 ## Content
 
-[Week 1](./week1.html).
+[Week 1](./week1.html)
 
 
 
