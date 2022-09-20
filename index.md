@@ -8,7 +8,9 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 
 [Week 1: Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W1.pptx)
 
-Week 1: Code
+Week 1 - Exercises: tba
+
+Week 1 - Sample Solution: tba
 
 
 ## Tools
