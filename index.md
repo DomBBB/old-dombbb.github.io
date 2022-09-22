@@ -12,8 +12,11 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 
 [Exercise](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FWeek1.ipynb)
 
-Sample Solution: tba
+Exercise Solution: tba
 
+[Assignment](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_01.ipynb)
+
+Assignment Solution: tba
 
 ## Tools
 
