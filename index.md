@@ -6,16 +6,17 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 
 ## Content
 
-[Week 1: Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W1.pptx)
+**Week 1:**
+[Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W1.pptx)
 
-Week 1 - Exercises: tba
+[Exercise](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FWeek1.ipynb)
 
-Week 1 - Sample Solution: tba
+Sample Solution: tba
 
 
 ## Tools
 
-Open JupyterLite: **https://dombbb.github.io/cs-hs22** 
+Open JupyterLite: [https://dombbb.github.io/cs-hs22](https://dombbb.github.io/cs-hs22)
 
 
 
