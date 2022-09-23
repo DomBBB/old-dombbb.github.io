@@ -8,7 +8,7 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 
 Introduction to Python: [Online Version](https://dombbb.github.io/cs-hs22/lab?path=repetition%2FGMI+2022+-+Introduction+to+Python.ipynb), [Jupyter Notebook](https://raw.githubusercontent.com/DomBBB/dombbb.github.io/main/content/GMI%202022%20-%20Introduction%20to%20Python.ipynb), [HTML](https://raw.githubusercontent.com/DomBBB/dombbb.github.io/main/content/GMI%202022%20-%20Introduction%20to%20Python.htm)
 
-Summary of SHSG SummerSchool: [Online Version](https://dombbb.github.io/cs-hs22/lab?path=repetition%2FSummerSchool2022.ipynb), [Jupyter Notebook](https://raw.githubusercontent.com/DomBBB/dombbb.github.io/main/content/SummerSchool2022.ipynb), [HTML](https://raw.githubusercontent.com/DomBBB/dombbb.github.io/main/content/SummerSchool2022.html) & [corresponding Cheat Sheet PDF](https://github.com/DomBBB/dombbb.github.io/raw/main/content/cheatsheet.pdf)
+Summary of SHSG SummerSchool: [Online Version](https://dombbb.github.io/cs-hs22/lab?path=repetition%2FSummerSchool2022.ipynb), [Jupyter Notebook](https://raw.githubusercontent.com/DomBBB/dombbb.github.io/main/content/SummerSchool2022.ipynb "download"), [HTML](https://raw.githubusercontent.com/DomBBB/dombbb.github.io/main/content/SummerSchool2022.html) & [corresponding Cheat Sheet PDF](https://github.com/DomBBB/dombbb.github.io/raw/main/content/cheatsheet.pdf)
 
 Introduction to OOP (classes & @ property): tbd
 
