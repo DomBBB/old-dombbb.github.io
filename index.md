@@ -42,7 +42,7 @@ Full Presentation (all weeks updated): Uploaded here after the last exercise ses
 
 [Powerpoint]()
 
-[Exercise]()
+[Exercise](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FWeek2.ipynb)
 
 Exercise Solution: tba
 
