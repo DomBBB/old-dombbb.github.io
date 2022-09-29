@@ -40,7 +40,7 @@ Full Presentation (all weeks updated): Uploaded here after the last exercise ses
 
 **Week 2:**
 
-[Powerpoint]()
+[Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W2.pptx)
 
 [Exercise](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FWeek2.ipynb)
 
