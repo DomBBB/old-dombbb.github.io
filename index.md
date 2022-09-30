@@ -44,7 +44,7 @@ Full Presentation (all weeks updated): Uploaded here after the last exercise ses
 
 [Exercise](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FWeek2.ipynb)
 
-Exercise Solution: tba
+[Exercise Solution](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FWeek2_Solution.ipynb)
 
 [Assignment](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_02.ipynb)
 
