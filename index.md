@@ -60,4 +60,16 @@ Full Presentation (all weeks updated): Uploaded here after the last exercise ses
 
 [Assignment](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_03.ipynb)
 
+[Assignment Solution](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_03_Solution.ipynb)
+
+**Week 2:**
+
+[Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W4.pptx)
+
+Exercise TBD
+
+Exercise Solution TBD
+
+[Assignment](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_04.ipynb)
+
 Assignment Solution: tba
