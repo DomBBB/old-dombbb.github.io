@@ -73,3 +73,15 @@ Full Presentation (all weeks updated): Uploaded here after the last exercise ses
 [Assignment](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_04.ipynb)
 
 Assignment Solution: tba
+
+**Week 5:**
+
+[Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W5.pptx)
+
+[Exercise](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FWeek5.ipynb)
+
+[Exercise Solution](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FWeek5_Solution.ipynb)
+
+[Assignment](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_05.ipynb)
+
+Assignment Solution: tba
