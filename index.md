@@ -90,9 +90,9 @@ Full Presentation (all weeks updated): Uploaded here after the last exercise ses
 
 [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W6.pptx)
 
-[Exercise]: tbd
+[Exercise](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FWeek6.ipynb)
 
-[Exercise Solution]: tbd
+[Exercise Solution](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FWeek6_Solution.ipynb)
 
 [Assignment](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_06.ipynb)
 
