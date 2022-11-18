@@ -96,4 +96,16 @@ Full Presentation (all weeks updated): Uploaded here after the last exercise ses
 
 [Assignment](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_06.ipynb)
 
+[Assignment Solution](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_06_Solution.ipynb)
+
+**Week 7:**
+
+[Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W7.pptx)
+
+Exercise: No Exercise this Week
+
+Exercise Solution: No Exercise this Week
+
+[Assignment](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_07.ipynb)
+
 Assignment Solution: tba
