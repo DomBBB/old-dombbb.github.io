@@ -106,9 +106,9 @@ Full Presentation (all weeks updated): [Powerpoint](https://view.officeapps.live
 
 **Week 8:**
 
-Exercise: No Exercise this Week
+[Exercise](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FWeek8.ipynb)
 
-Exercise Solution: No Exercise this Week
+[Exercise Solution](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FWeek8_Solution.ipynb)
 
 [Assignment](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_08.ipynb)
 
