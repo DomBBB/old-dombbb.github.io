@@ -112,4 +112,20 @@ Full Presentation (all weeks updated): [Powerpoint](https://view.officeapps.live
 
 [Assignment](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_08.ipynb)
 
+[Assignment Solution](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_08_Solution.ipynb)
+
+**Week 9:**
+
+[Assignment](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_09.ipynb)
+
+[Assignment Solution](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_09_Solution.ipynb)
+
+**Week 10:**
+
+[Exercise](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FWeek10.ipynb)
+
+[Exercise Solution](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FWeek10_Solution.ipynb)
+
+[Assignment](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_10.ipynb)
+
 Assignment Solution: tba
