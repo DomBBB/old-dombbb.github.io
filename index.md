@@ -96,6 +96,12 @@ Full Presentation (all weeks updated): tba
 
 [Assignment Solution](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_06_Solution.ipynb)
 
+**Break - exercise about sets & dictionaries:**
+
+[Exercise](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FSets%26Dics.ipynb)
+
+[Exercise Solution](https://dombbb.github.io/cs-hs22/lab?path=weekly%2FSets%26Dics_Solution.ipynb)
+
 **Week 7:**
 
 [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W7.pptx)
