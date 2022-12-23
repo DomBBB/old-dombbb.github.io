@@ -142,4 +142,8 @@ Full Presentation (all weeks updated): tba
 
 [Assignment](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_11.ipynb)
 
-Assignment Solution: TBD
+[Assignment Solution](https://dombbb.github.io/cs-hs22/lab?path=assignments%2FAssignment_11_Solution.ipynb)
+
+**Week 12:**
+
+[Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W12.pptx)
