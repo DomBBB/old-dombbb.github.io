@@ -14,7 +14,7 @@ Introduction to OOP (classes & @ property): [Classes - Online Version](https://d
 
 Introduction to DataScience: [Online Version](https://dombbb.github.io/cs-hs22/lab?path=repetition%2FGMI+2022+-+Data+Science.ipynb)
 
-Full Presentation (all weeks updated): tba
+Full Presentation (all weeks updated): [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation.pptx)
     
 
 ## Tools:
