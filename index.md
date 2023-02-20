@@ -8,8 +8,6 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 
 Introduction to Python: [Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2FGMI+2022+-+Introduction+to+Python.ipynb)
 
-Summary of SHSG SummerSchool: [Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2FSummerSchool2022.ipynb)
-
 Introduction to OOP (classes & @ property): [Classes - Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2Foop.ipynb), [@ - Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2F%40property.ipynb)
 
 Introduction to DataScience: [Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2FGMI+2022+-+Data+Science.ipynb)
