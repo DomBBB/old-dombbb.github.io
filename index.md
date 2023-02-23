@@ -4,7 +4,7 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 ---
 
 
-## Programming Resources ([Download Here])(https://github.com/DomBBB/dombbb.github.io/tree/main/content):
+## Programming Resources ([Download Here](https://github.com/DomBBB/dombbb.github.io/tree/main/content)):
 
 Introduction to Python: [Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2FGMI+2022+-+Introduction+to+Python.ipynb)
 
