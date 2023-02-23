@@ -3,8 +3,14 @@ layout: default
 title: Fundamentals and Methods of Computer Science for Business Studies - Exercises, Group 2
 ---
 
+## Announcements & Office Hours
+
+The next virtual office hour will be: TBD. Please use the following Zoom Link to join: TBD.
+
 
 ## Programming Resources ([Download Here](https://github.com/DomBBB/dombbb.github.io/tree/main/content)):
+
+Note: The online version does not always work. In some cases (you'll see a remark next to the respective link) you will need to download the exercise.
 
 Introduction to Python: [Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2FGMI+2022+-+Introduction+to+Python.ipynb)
 
