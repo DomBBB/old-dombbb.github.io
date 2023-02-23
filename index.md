@@ -12,6 +12,8 @@ The next virtual office hour will be: TBD. Please use the following Zoom Link to
 
 _Note: The online version does not always work. It is recommended to download these resources here. You can download them directly from Github or open the online version of the file & use the menu buttons File > Download._
 
+There also is a HTML version of these files (see Github), if you don't want to always open Jupyter.
+
 Introduction to Python: [Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2FGMI+2022+-+Introduction+to+Python.ipynb)
 
 Introduction to OOP (classes & @ property): TBA
