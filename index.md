@@ -14,9 +14,9 @@ Note: The online version does not always work. In some cases (you'll see a remar
 
 Introduction to Python: [Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2FGMI+2022+-+Introduction+to+Python.ipynb)
 
-Introduction to OOP (classes & @ property): [Classes - Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2Foop.ipynb), [@ - Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2F%40property.ipynb)
+Introduction to OOP (classes & @ property): TBA
 
-Introduction to DataScience: [Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2FGMI+2022+-+Data+Science.ipynb)
+Introduction to DataScience: TBA
     
 
 ## Tools:
@@ -32,7 +32,7 @@ Introduction to DataScience: [Online Version](https://dombbb.github.io/cs-fs23/l
 
 [Exercise](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek1.ipynb)
 
-Exercise Solution: tba
+Exercise Solution: TBA
 
 
 
