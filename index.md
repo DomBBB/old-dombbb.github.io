@@ -10,7 +10,7 @@ The next lecture will be: 24/02/2023. A livestream (but no recording) is availab
 The next virtual office hour will be: TBD. Please use the following Zoom Link to join: TBD.
 
 
-## Programming Resources ([Download Here](https://github.com/DomBBB/dombbb.github.io/tree/main/content)):
+## Programming Resources ([Download Here](https://github.com/DomBBB/dombbb.github.io/) - green <>Code - download as ZIP):
 
 _Note: The online version does not always work. It is recommended to download these resources here. You can download them directly from Github or open the online version of the file & use the menu buttons File > Download._
 
