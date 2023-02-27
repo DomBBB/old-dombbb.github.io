@@ -38,7 +38,7 @@ _Note: The online version often works. You'll see a remark next to the respectiv
 
 [Exercise](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek1.ipynb) (Input does not work in the online version)
 
-Exercise Solution: TBA
+[Exercise Solution](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek1_Solution.ipynb)
 
 
 
