@@ -5,9 +5,9 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 
 ## Announcements & Office Hours
 
-The next lecture will be: 24/02/2023. A livestream (but no recording) is available: [join](https://unisg.zoom.us/j/68006322170?pwd=YjdscTk0bTVCZDVRVWFlQmFoTnJsUT09)
+The next lecture will be: 03/03/2023. A livestream (but no recording) is available: [join](https://unisg.zoom.us/j/65696526565?pwd=djdQd2JJZlZPcWxMUTBtYk83UUpzQT09)
 
-The next virtual office hour will be: 28/02/2023 (16:00-17:00). Please use the following Zoom Link to join: https://unisg.zoom.us/j/9149411476?pwd=UUw3cGJ4VnN2OCswaC9BY3JrRmEvZz09
+The next virtual office hour will be: 07/03/2023 (16:00-17:00). Please use the following Zoom Link to join: TBA
 
 
 ## Programming Resources ([Download Here](https://github.com/DomBBB/dombbb.github.io/) - green <>Code - download as ZIP):
