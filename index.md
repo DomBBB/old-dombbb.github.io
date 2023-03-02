@@ -40,5 +40,12 @@ _Note: The online version often works. You'll see a remark next to the respectiv
 
 [Exercise Solution](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek1_Solution.ipynb)
 
+**Week 2:**
+
+[Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W2.pptx)
+
+[Exercise](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek2.ipynb)
+
+Exercise Solution: tba
 
 
