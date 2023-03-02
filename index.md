@@ -25,6 +25,8 @@ Introduction to DataScience: TBA
 
 ## Tools:
 
+_Note: Please use Firefox or Chrome. In some cases Safari or other Browsers do not work._
+
 [Jupyter Lite](https://dombbb.github.io/cs-fs23)
 
 
