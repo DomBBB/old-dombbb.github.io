@@ -5,9 +5,9 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 
 ## Announcements & Office Hours
 
-The next lecture will be: 10/03/2023. A livestream (but no recording) is available: [join](https://unisg.zoom.us/j/64503070572?pwd=Sy9INERhdDZ5TDZuMlFwQUFZaVJhZz09)
+The next lecture will be: 17/03/2023. A livestream (but no recording) is available: [join](https://unisg.zoom.us/j/61105337734?pwd=SnRTWWM4R2FydmtBRHJlZ0gyZkNmUT09)
 
-The next virtual office hour will be: 14/03/2023 (16:00-17:00). Please use the following Zoom Link to join: TBA
+The next virtual office hour will be: 21/03/2023 (16:00-17:00). Please use the following Zoom Link to join: TBA
 
 
 ## Programming Resources ([Download Here](https://github.com/DomBBB/dombbb.github.io/) - green <>Code - download as ZIP):
@@ -50,7 +50,6 @@ _Note: The online version often works. You'll see a remark next to the respectiv
 
 [Exercise Solution](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek2_Solution.ipynb)
 
-
 **Week 3:**
 
 [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W3.pptx)
@@ -59,3 +58,14 @@ _Note: The online version often works. You'll see a remark next to the respectiv
 
 [Exercise Solution](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek3_Solution.ipynb)
 
+**Week 4:**
+
+[Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W4.pptx)
+
+[Exercise A](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek4a.ipynb)
+
+[Exercise A Solution](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek4a_Solution.ipynb)
+
+[Exercise B](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek4b.ipynb)
+
+[Exercise B Solution](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek4b_Solution.ipynb)
