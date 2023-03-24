@@ -18,7 +18,7 @@ There also is a HTML version of these files (see Github), if you don't want to a
 
 Introduction to Python: [Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2FGMI+2022+-+Introduction+to+Python.ipynb)
 
-Introduction to OOP (classes & @ property): TBA
+Introduction to OOP (classes & @ property): [OOP - Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2Foop.ipynb), [@Property - Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2F%40property.ipynb)
 
 Introduction to DataScience: TBA
     
