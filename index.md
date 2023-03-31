@@ -5,11 +5,11 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 
 ## Announcements & Office Hours
 
-The next lecture will be: 31/03/2023. A livestream (but no recording) is available: [join](https://unisg.zoom.us/j/65383587898?pwd=cnRlcDFieUZFUW12UVhib0xkNXU5dz09)
+The next lecture will be: 21/04/2023. A livestream (but no recording) is available: TBA
 
-Unfortunately the link did not work anymore. It should work now again for the next sessions and I will link the recording of Week 6 here: TBA 
+Unfortunately the link did not work anymore. It should work now again for the next sessions and I will link the recording of Week 6 here: [LINK](https://unisg.zoom.us/rec/share/OwAhesFpj_FYhHN_sUJBuwFRbE4tzWSspJvFd3ro5HCwJGSESPBMocwbjpns0gQ.wEAzBwPoYyHu5F9c)
 
-The next virtual office hour will be: 28/03/2023 (16:00-17:00). Please use the following Zoom Link to join: TBA
+The next virtual office hour will be: 18/04/2023 (16:00-17:00). Please use the following Zoom Link to join: TBA
 
 
 ## Programming Resources ([Download Here](https://github.com/DomBBB/dombbb.github.io/) - green <>Code - download as ZIP):
@@ -84,6 +84,6 @@ _Note: The online version often works. You'll see a remark next to the respectiv
 
 [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W6.pptx)
 
-[Exercise](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek6.ipynb)
+[Exercise](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek6.ipynb) (requests does not work in the online version)
 
 [Exercise Solution](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek6_Solution.ipynb)
