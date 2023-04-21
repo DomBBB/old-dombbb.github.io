@@ -87,3 +87,7 @@ _Note: The online version often works. You'll see a remark next to the respectiv
 [Exercise](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek6.ipynb) (requests does not work in the online version)
 
 [Exercise Solution](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek6_Solution.ipynb)
+
+**Week 7:**
+
+[Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W6.pptx)
