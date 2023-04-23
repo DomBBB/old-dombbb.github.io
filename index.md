@@ -5,11 +5,13 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 
 ## Announcements & Office Hours
 
-The next lecture will be: 21/04/2023. A livestream (but no recording) is available: https://unisg.zoom.us/j/69149509867?pwd=M1AxMXRJWEg0aHdWQkJKUURJWFJyZz09
+The next lecture will be: 28/04/2023. A livestream (but no recording) is available:
 
-Unfortunately the link did not work anymore. It should work now again for the next sessions and I will link the recording of Week 6 here: [LINK](https://unisg.zoom.us/rec/share/OwAhesFpj_FYhHN_sUJBuwFRbE4tzWSspJvFd3ro5HCwJGSESPBMocwbjpns0gQ.wEAzBwPoYyHu5F9c)
+Recording Week 6: [LINK](https://unisg.zoom.us/rec/share/OwAhesFpj_FYhHN_sUJBuwFRbE4tzWSspJvFd3ro5HCwJGSESPBMocwbjpns0gQ.wEAzBwPoYyHu5F9c)
 
-The next virtual office hour will be: 18/04/2023 (16:00-17:00). Please use the following Zoom Link to join: TBA
+Recording Week 7: [LINK](https://unisg.zoom.us/rec/share/4K7mrNgRKCkSB28WGCaDD0UH5ecxMZvfVuOuwpQ-l-M-XIFKgYvfvKf7Y3UxEun2.23hykicQ3iKZza5y )
+
+The next virtual office hour will be: 25/04/2023 (16:00-17:00). Please use the following Zoom Link to join: TBA
 
 
 ## Programming Resources ([Download Here](https://github.com/DomBBB/dombbb.github.io/) - green <>Code - download as ZIP):
@@ -90,4 +92,4 @@ _Note: The online version often works. You'll see a remark next to the respectiv
 
 **Week 7:**
 
-[Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W6.pptx)
+[Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W7.pptx)
