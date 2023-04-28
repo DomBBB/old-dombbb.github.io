@@ -5,13 +5,15 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 
 ## Announcements & Office Hours
 
-The next lecture will be: 28/04/2023. A livestream (but no recording) is available:
+The next lecture will be: 28/04/2023. A livestream (but no recording) is available: https://unisg.zoom.us/j/68765731600?pwd=NzBGakdxYnlBOHZUb1MzVVhIMGdTQT09
 
 Recording Week 6: [LINK](https://unisg.zoom.us/rec/share/OwAhesFpj_FYhHN_sUJBuwFRbE4tzWSspJvFd3ro5HCwJGSESPBMocwbjpns0gQ.wEAzBwPoYyHu5F9c)
 
-Recording Week 7: [LINK](https://unisg.zoom.us/rec/share/4K7mrNgRKCkSB28WGCaDD0UH5ecxMZvfVuOuwpQ-l-M-XIFKgYvfvKf7Y3UxEun2.23hykicQ3iKZza5y )
+Recording Week 7: [LINK](https://unisg.zoom.us/rec/share/4K7mrNgRKCkSB28WGCaDD0UH5ecxMZvfVuOuwpQ-l-M-XIFKgYvfvKf7Y3UxEun2.23hykicQ3iKZza5y)
 
-The next virtual office hour will be: 25/04/2023 (16:00-17:00). Please use the following Zoom Link to join: TBA
+Recording Week 8: LINK TBA
+
+The next virtual office hour will be: 02/05/2023 (16:00-17:00). Please use the following Zoom Link to join: TBA
 
 
 ## Programming Resources ([Download Here](https://github.com/DomBBB/dombbb.github.io/) - green <>Code - download as ZIP):
@@ -24,7 +26,7 @@ Introduction to Python: [Online Version](https://dombbb.github.io/cs-fs23/lab?pa
 
 Introduction to OOP (classes & @ property): [OOP - Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2Foop.ipynb), [@Property - Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2F%40property.ipynb)
 
-Introduction to DataScience: TBA
+Introduction to DataScience: [Online Version](https://dombbb.github.io/cs-fs23/lab?path=repetition%2FGMI+2022+-+Data+Science.ipynb)
     
 
 ## Tools:
@@ -93,3 +95,11 @@ _Note: The online version often works. You'll see a remark next to the respectiv
 **Week 7:**
 
 [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W7.pptx)
+
+**Week 8:**
+
+[Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W8.pptx)
+
+[Exercise](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek8.ipynb) (downloading does not work in the online version)
+
+[Exercise Solution](https://dombbb.github.io/cs-fs23/lab?path=weekly%2FWeek8_Solution.ipynb)
