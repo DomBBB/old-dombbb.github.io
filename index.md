@@ -5,7 +5,7 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 
 ## Announcements & Office Hours
 
-The next lecture will be: 05/05/2023. A livestream is available: TBA
+The next lecture will be: 05/05/2023. A livestream is available: https://unisg.zoom.us/j/67728846433?pwd=VXp4QTYzaGpmZXU2YmtxM2hIZzcwdz09
 
 Recording Week 6: [LINK](https://unisg.zoom.us/rec/share/OwAhesFpj_FYhHN_sUJBuwFRbE4tzWSspJvFd3ro5HCwJGSESPBMocwbjpns0gQ.wEAzBwPoYyHu5F9c)
 
