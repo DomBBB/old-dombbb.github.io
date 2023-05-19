@@ -17,7 +17,7 @@ Recording Week 9: [LINK](https://unisg.zoom.us/rec/share/P-tQiGwBWmJbhvlmumkSiOp
 
 Recording Week 10: [LINK](https://unisg.zoom.us/rec/share/WilnDX6l1_c93nZy5WyR4ARvuByZBJ-NgaMWawjqNjiE4yh1huWJvOE8Ap_5Guso.h4jNvEuLQPjlVz72)
 
-Recording Week 11: LINK
+Recording Week 11: [LINK](https://unisg.zoom.us/rec/share/db00sagoZZPSKspc--yqstS3DoOnocwz5DctZ1hJHm5f497eKZSs01YS9UD8-dNX.bkc-e5j2jR97_3Pm)
 
 Recording Week 12: LINK
 
