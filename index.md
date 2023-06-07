@@ -127,3 +127,7 @@ _Note: The online version often works. You'll see a remark next to the respectiv
 **Week 11:**
 
 [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W11.pptx)
+
+**Week 12:**
+
+[Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/presentation/Presentation_W12.pptx)
