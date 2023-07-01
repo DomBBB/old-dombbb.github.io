@@ -21,7 +21,7 @@ Recording Week 11: [LINK](https://unisg.zoom.us/rec/share/db00sagoZZPSKspc--yqst
 
 Recording Week 12: [LINK](https://unisg.zoom.us/rec/play/ZzQq_qhPAsYzefbLNE5vgTDxxV3nc9MM5Nh_4ySUJHJ8Usag7Qz9_pHOQTat92LE2rxniE-u5PdtWpQR.m6Fo8ZQavfDmK8Rh?autoplay=true&canPlayFromShare=true&componentName=rec-play&continueMode=true&from=share_recording_detail&originRequestUrl=https%3A%2F%2Funisg.zoom.us%2Frec%2Fshare%2F3V36VCKbdZVghWPQaTMqLoy5yZVaGsVsm42TjMuYvnwdOFjz2f_aM0HhLgF1LfVm.REBuGmQALpwtey-g&startTime=1685096327000)
 
-The next virtual office hour will be: 01.07.2023 10:00-12:00. Please use the following Zoom Link to join: TBA
+The next virtual office hour will be: 01.07.2023 10:00-12:00. Please use the following Zoom Link to join: https://unisg.zoom.us/j/67878760183?pwd=OW1pRzRKYWZ5YUZZVGZYWU85a1pGQT09
 
 
 ## Programming Resources ([Download Here](https://github.com/DomBBB/dombbb.github.io/) - green <>Code - download as ZIP):
